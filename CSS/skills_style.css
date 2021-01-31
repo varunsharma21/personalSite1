@@ -1,0 +1,67 @@
+body{
+  background-color: "white";
+}
+
+h1{
+  color: #845ec2;
+  font-size: 70px;
+}
+
+.table-1{
+width: 100%;
+
+}
+
+.table-2{
+  border-spacing: 5%;
+  border-collapse: collapse;
+  background-color: #845ec2;
+  width: 50%;
+  border-radius: 10%;
+}
+
+th{
+  padding: 5%;   /* we can use padding in td and th only when there is border-collapse: collapse type*/
+}
+
+td{
+  padding: 5%;
+}
+
+.html-img{
+  height: 100px;
+  width: 100px;
+  padding-right: 0;
+}
+
+.css-img{
+  height: 100px;
+  width: 100px;
+  padding: 0;
+}
+
+.javascript-img{
+  height: 100px;
+  width: 100px;
+  padding-right: 0;
+}
+
+.github-img{
+  height: 130px;
+  width: 130px;
+}
+
+.cpp-img{
+  height: 100px;
+  width: 100px;
+}
+
+.heading{
+  padding-top: 0;
+}
+
+.back-to-home-link{
+  height: 50px;
+  width: 50px;
+  border-radius: 50% 30% 25% 35%;
+}

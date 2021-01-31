@@ -1,0 +1,30 @@
+body{
+  background-color: "white";
+}
+
+p{
+  font-size: 45px;
+}
+
+table{
+  width: 70%;
+}
+
+.insta{
+  width: 135px;
+}
+                                    /* More preferance is given to class than being generic.
+                                      So, no matter we change width above or below generic thing(img here) */
+img{
+  border-radius: 100%;
+  height: 100px;
+  width: 100px;
+}
+
+
+
+.back-to-home-link{
+  height: 50px;
+  width: 50px;
+  border-radius: 50% 30% 25% 35%;
+}

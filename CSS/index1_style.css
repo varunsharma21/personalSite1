@@ -1,0 +1,50 @@
+body{
+  background-color: "white";
+}
+
+.footer-link{
+  color: black;
+  font-style: cursive;
+}
+
+.my-photo{
+  height: 30%;
+  width: 30%;
+  border-radius: 100%;
+  float: right;
+
+}
+
+.container-1{
+  padding-left: 950px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: "black";
+  background-color: "white";
+  margin: 0;
+}
+
+.container-2{
+  padding-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #845ec2;
+  margin: 0;
+}
+
+.writer-name{
+  font-style: italic;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+
+.container-3{
+  background-color: "white";
+  padding-top: 60px;
+  margin: 0;
+}
+
+.intro{
+  padding-bottom: 30px;
+  font-size: 18px;
+}
